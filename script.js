@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			setTimeout(function() {
 				ConstellationSketcher.setDrawLines(false);
 				ConstellationSketcher.setConstellation('Pisces').sketch();
-				var textNode = document.createTextNode("Gửi anh Nguyện aka 'Cá Cá' aka 'bờ vai vững chãi'. Từ lúc đi mua cà phê muối với nhau trong lần đầu gặp đã có thiện cảm với a nhiều rồi. Thật sự có duyên khi gặp được anh, cùng nhau trãi qua những buổi chạy bộ, đánh cầu rồi đi chơi xa cùng nhau, đó là điều e cảm thấy rất may mắn. Năm mới chúc anh tràn trề sức khoẻ, hạnh phúc thật nhiều và mong may mắn sẽ đến với anh thật nhiều trong năm nay nha. Mong những sự cố gắng của anh sẽ được đền đáp xứng đáng. Thôi viết hết mực rồi, vô tết gặp lại ae mình nói chuyện tiếp henn. Chúc anh tết vui vẻ.");
+				var textNode = document.createTextNode("Năm mới duii dẻee nhenn ^^!");
 
 			// Tạo một phần tử <p> và thêm đoạn văn bản vào đó
 			var paragraph = document.createElement("p");
