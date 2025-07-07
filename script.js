@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		soundManager.pauseAll();
 	  myElement1.style.display= 'none';
 	  ConstellationSketcher.setDrawLines(true);
-	  ConstellationSketcher.setConstellation('Pisces').sketch();
+	  ConstellationSketcher.setConstellation('Virgo').sketch();
 	  var audio = new Audio('galaxy.mp3');
 	  audio3.volume = '0.2';
       audio.play();
