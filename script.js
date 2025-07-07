@@ -5,7 +5,7 @@ const IS_MOBILE = window.innerWidth <= 640;
 const IS_DESKTOP = window.innerWidth > 800;
 const IS_HEADER = IS_DESKTOP && window.innerHeight < 300;
 ConstellationSketcher.setDrawLines(false);
-ConstellationSketcher.setConstellation('Aquarius').sketch();
+ConstellationSketcher.setConstellation('Virgo').sketch();
 ConstellationSketcher.setSpeedScale(0.4);
 
 
