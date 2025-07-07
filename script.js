@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 			setTimeout(function() {
 				ConstellationSketcher.setDrawLines(false);
-				ConstellationSketcher.setConstellation('Pisces').sketch();
+				ConstellationSketcher.setConstellation('Virgo').sketch();
 				var textNode = document.createTextNode("Chúc eim một ngày tốt lành Stella!!!");
 
 			// Tạo một phần tử <p> và thêm đoạn văn bản vào đó
