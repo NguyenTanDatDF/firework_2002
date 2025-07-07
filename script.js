@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	// Đặt thời gian trễ (milliseconds)
 	var delayTime = 48000; // Ví dụ: 2000ms = 2 seconds
 	var audio3 = new Audio('newyear.mp3');
-	audio3.currentTime = "116";
+	audio3.currentTime = "44";
 	audio3.play();
 	audio3.volume = '0.5';
 	// Thêm class 'visible' sau khoảng thời gian trễ
